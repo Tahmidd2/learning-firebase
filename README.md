@@ -5,7 +5,7 @@
 * auth - learning firebase authentication
 * auth-build - making a good looking login/signup page and utilizing the auth skills
 
-* Learned how to implement skills on github.com/mohammadr09/learning-firebase/tree/production branch
+* Learned how to implement skills on https://github.com/mohammadr09/learning-firebase/tree/production branch
 
 **Switching Branches in the Terminal**
 * `git checkout <branch_name>` : requires the branch to EXIST
